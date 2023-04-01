@@ -14,9 +14,9 @@ function App() {
        <Home /> :
        <>
        <Customizer />
-       <Canvas />
        </>
        }
+       <Canvas />
     </main>
   );
 }
