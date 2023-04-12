@@ -15,18 +15,18 @@ This is a web application built using React, Three.js, Express, OpenAI's Dall-E 
 # Getting Started
 To run the application locally, follow these steps:
 
-Clone the repository using git clone https://github.com/<your-username>/t-shirt-designer.git.
-Install the dependencies by running npm install.
-Start the server and client by running npm run dev.
-Open your browser and go to http://localhost:3000.
-Technology Stack
-React: A JavaScript library for building user interfaces.
-Three.js: A JavaScript library for creating 3D graphics in the browser.
-Express: A web application framework for Node.js.
-OpenAI's Dall-E API: An AI-powered image generation API.
-Tailwind: A utility-first CSS framework for quickly building custom user interfaces.
-Valtio: A lightweight and simple state management library for React.
-Contributing
+- Clone the repository using git clone https://github.com/<your-username>/t-shirt-designer.git.
+- Install the dependencies by running npm install.
+- Start the server and client by running npm run dev.
+- Open your browser and go to http://localhost:3000.
+# Technology Stack
+- React: A JavaScript library for building user interfaces.
+- Three.js: A JavaScript library for creating 3D graphics in the browser.
+- Express: A web application framework for Node.js.
+- OpenAI's Dall-E API: An AI-powered image generation API.
+- Tailwind: A utility-first CSS framework for quickly building custom user interfaces.
+- Valtio: A lightweight and simple state management library for React.
+# Contributing
 Contributions to the project are welcome. If you find a bug or want to suggest a new feature, please open an issue or submit a pull request.
 
 # License
