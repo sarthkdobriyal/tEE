@@ -15,7 +15,7 @@ This is a web application built using React, Three.js, Express, OpenAI's Dall-E 
 # Getting Started
 To run the application locally, follow these steps:
 
-- Clone the repository using git clone https://github.com/<your-username>/t-shirt-designer.git.
+- Clone the repository using git clone https://github.com/sarthkdobriyal/t-shirt-designer.git.
 - Install the dependencies by running npm install.
 - Start the server and client by running npm run dev.
 - Open your browser and go to http://localhost:3000.
